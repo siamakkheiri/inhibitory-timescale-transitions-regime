@@ -58,8 +58,8 @@ delay_inh = 2.0
 tau_rise = 0.5
 tau_exc_exc = 5.0
 tau_exc_inh = 5.0
-tau_inh_exc = 4.0
-tau_inh_inh = 4.0
+tau_inh_exc = 8.0
+tau_inh_inh = 8.0
 
 
 ndict_pop_exc= {"C_m":200.0,"g_L":10.0,'t_ref':t_ref , 'E_ex':0.0, 'E_in':-70.0,
